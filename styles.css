@@ -196,6 +196,7 @@ section p {
 
 .article-card .card-description .article-title {
     cursor: pointer;
+    color: black;
     margin: .5rem 0;
 }
 
